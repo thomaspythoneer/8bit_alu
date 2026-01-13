@@ -84,7 +84,7 @@ Only one device drives the bus at a time, while others remain in the `Z` state.
 ## 6. Tri-State Implementation in This ALU
 
 ```verilog
-assign d_out = (oe) ? out : 16'hZZZZ;
+assign d_out = (oe) ? out : 16'hzzzz;
 ```
 
 | `oe` | `d_out` Behavior               |
