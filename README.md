@@ -1,8 +1,3 @@
-Below is an **enhanced version of the README**, with a **clear, well-explained section on the BUFFER (BUF) operation**, written in a way that is **technically correct, viva-friendly, and conceptually strong**.
-You can directly replace or append this to your existing README.
-
----
-
 # 8-Bit ALU with Tri-State Output Enable
 
 **Verilog HDL Implementation**
